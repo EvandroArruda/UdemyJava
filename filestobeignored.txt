@@ -1,0 +1,99 @@
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   ../README.txt
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    ../README.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../../../-1.14-windows.xml
+	../../../.AndroidStudio3.5/
+	../../../.VirtualBox/
+	../../../.android/
+	../../../.bash_history
+	../../../.cache/
+	../../../.config/
+	../../../.eclipse/
+	../../../.gitconfig
+	../../../.gradle/
+	../../../.lesshst
+	../../../.minttyrc
+	../../../.nbi/
+	../../../.node_repl_history
+	../../../.p2/
+	../../../.packettracer
+	../../../.receitanet/
+	../../../.rfb/
+	../../../.vscode/
+	../../../3D Objects/
+	../../../AndroidStudioProjects/
+	../../../AppData/
+	../../../Cisco Packet Tracer 8.2.1/
+	../../../Cmder/
+	../../../Contacts/
+	../../../Desktop/
+	../../Arduino/
+	../../CD ROM Virtual.vhd
+	../2_Edital_da_Gratuidade_2022(1).pdf
+	../2a Via VIVO.pdf
+	../Apostilas 2022-06-24/
+	../Arduino/
+	../AutoDesk FreeCAD/
+	../AutoDesk-Fusion360/
+	"../Cau\303\243 Levi - Passaporte/"
+	../Curriculo Vitae/
+	../Desenho Tecnico/
+	../EBooks/
+	../Escola da Nuvem/
+	../Espanhol/
+	../IMPOSTO DE RENDA HELENA/
+	../Imagens/
+	./
+	"../Passaporte Cau\303\243.odt"
+	../Projetos/
+	../Save/
+	../SimCity3000/
+	../Udemy/
+	../VHD Virtual.vhd
+	../Valores a Receber.pdf
+	../YOGA.docx
+	../ignoredfiles.txt
+	../../HELENA PENA DEC IR.pdf
+	../../Helena Pena/
+	../../My Kindle Content/
+	../../Nubia Pena/
+	"../../V\303\255nculo e Conex\303\243o.odg"
+	"../../V\303\255nculo e Conex\303\243o.png"
+	../../desktop.ini
+	../../../Downloads/
+	../../../Favorites/
+	../../../IntelGraphicsProfiles/
+	../../../Links/
+	../../../Music/
+	../../../NTUSER.DAT
+	../../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+	../../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+	../../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+	../../../OneDrive/
+	../../../Pictures/
+	../../../PycharmProjects/
+	../../../Saved Games/
+	../../../Searches/
+	../../../Videos/
+	../../../VirtualBox VMs/
+	../../../android-sdks/
+	../../../eclipse/
+	../../../javaclass.bat
+	../../../node_modules/
+	../../../ntuser.dat.LOG1
+	../../../ntuser.dat.LOG2
+	../../../ntuser.ini
+	../../../package-lock.json
+
